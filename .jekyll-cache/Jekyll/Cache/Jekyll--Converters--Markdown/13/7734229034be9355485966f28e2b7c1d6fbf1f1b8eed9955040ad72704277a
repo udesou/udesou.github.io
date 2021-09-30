@@ -1,0 +1,13 @@
+I"�<p>I am a Software Engineering student at <a href="https://www.rmit.edu.au/">RMIT University</a> in Melbourne. Starting November 2016 I will be interning with <a href="https://www.zendesk.com/">Zendesk</a> in a Data Engineering role.</p>
+
+<p>I’m currently doing a lot of work building developer communities around my University. I’ll chase any opportunity to improve collaboration and outreach in the tech. industry.</p>
+
+<p>My main areas of interest are in NLP, Agent-Oriented Programming, and Computational Dialectics.</p>
+
+<style>
+.post-header, #talks, #workshops {
+  text-align: center; /* Want the About Page header to be in the middle */
+}
+</style>
+
+:ET
