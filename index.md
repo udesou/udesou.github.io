@@ -14,7 +14,7 @@ headshot: /images/phd_defense_cropped.jpeg
 
 ---
 
-I'm a Ressearch Fellow at the [Australian National University](https://www.anu.edu.au). My main broad research interest is Programming Language Design and Implementation, in particular, I have worked on Syntax Definition Formalisms, Parsing, Memory Management and Virtual Machines. For more details about the projects I've been part of, see [Projects]({{ site.baseurl }}/projects). My most recent work involves porting [Julia](https://julialang.org)'s Garbage Collector to [MMTk](https://www.mmtk.io).
+I'm a Research Fellow at the [Australian National University](https://www.anu.edu.au). My main broad research interest is Programming Language Design and Implementation, in particular, I have worked on Syntax Definition Formalisms, Parsing, Memory Management and Virtual Machines. For more details about the projects I've been part of, see [Projects]({{ site.baseurl }}/projects). My most recent work involves porting [Julia](https://julialang.org)'s Garbage Collector to [MMTk](https://www.mmtk.io).
 
 ---
 
