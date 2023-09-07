@@ -14,14 +14,12 @@ headshot: /images/phd_defense_cropped.jpeg
 
 ---
 
-I'm a Research Fellow at the [Australian National University](https://www.anu.edu.au). My main broad research interest is Programming Language Design and Implementation, in particular, I have worked on Syntax Definition Formalisms, Parsing, Memory Management and Virtual Machines. For more details about the projects I've been part of, see [Projects]({{ site.baseurl }}/projects). My most recent work involves porting [Julia](https://julialang.org)'s Garbage Collector to [MMTk](https://www.mmtk.io).
+I'm a Research Fellow at the [Australian National University](https://www.anu.edu.au). My main broad research interest is Programming Language Design and Implementation, in particular, I have worked on Syntax Definition Formalisms, Parsing, Memory Management and Virtual Machines. For more details about the projects I've been part of, see [Projects]({{ site.baseurl }}/projects). My most recent work involves porting [Julia](https://julialang.org)'s Garbage Collector to [MMTk](https://www.mmtk.io). For more details about my publications please check my [CV]({{ site.url }}/resources/08.09.23-LuisEduardo-Resume.pdf).
 
 ---
 
-##### 🔗 [Publications]({{ site.baseurl }}/publications)
-
 ##### 🔗 [Projects]({{ site.baseurl }}/projects)
 
-##### 💾 [Dissertation]({{ site.baseurl }}/dissertation)
+##### 💾 [Dissertation](https://repository.tudelft.nl/islandora/object/uuid:43d7992a-7077-47ba-b38f-113f5011d07f?collection=research)
 
-##### 💾 [Resume]({{ site.baseurl }}/resume)
+##### 💾 [Resume]({{ site.url }}/resources/08.09.23-LuisEduardo-Resume.pdf)
