@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Publications
-tags: publications
-permalink: /publications/
+title: Blog
+tags: blog
+permalink: /blog/
 js:
 - js/util_buttons.js
 ---
